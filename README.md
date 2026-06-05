@@ -9,7 +9,6 @@
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
-
   <h3 align="center">AI Resume Analyzer</h3>
 </div>
 
