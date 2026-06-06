@@ -224,7 +224,6 @@ export const AIResponseFormat = `
         }[]; //give 3-4 tips
       };
     }`;
-
 export const prepareInstructions = ({jobTitle, jobDescription}: { jobTitle: string; jobDescription: string; }) =>
     `You are an expert in ATS (Applicant Tracking System) and resume analysis.
       Please analyze and rate this resume and suggest how to improve it.
